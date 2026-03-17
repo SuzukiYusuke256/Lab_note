@@ -1,0 +1,6 @@
+- On sharp surface force model Effect of sharpening coefficient
+- K. J. Vachaparambil and K. E. Einarsrud, *Exp. Comput. Multiph. Flow*, **3**, 226 (2021).
+- [[SSFモデル]]をOpenFOAMに実装した．
+- 計算開始直後に疑似流れの振動があるのは，界面が初期状態から安定になるまで時間がかかるから?
+- capillary rise and static bubble simulation
+- 
