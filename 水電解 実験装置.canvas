@@ -1,7 +1,0 @@
-{
-	"nodes":[
-		{"id":"9f8ad6bad1356b59","type":"text","text":"実験装置の製作","x":-980,"y":-540,"width":250,"height":60},
-		{"id":"e6f9579a09a4b6d1","type":"file","file":"Document/オペアンプ.md","x":-535,"y":-324,"width":400,"height":400}
-	],
-	"edges":[]
-}
