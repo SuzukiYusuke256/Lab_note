@@ -1,0 +1,4 @@
+{
+  "attachmentFolderPath": "./assets/${noteFileName}",
+  "alwaysUpdateLinks": true
+}
