@@ -1,7 +1,7 @@
 #Alkaline_water_electrolysis #Review
 
 - Advances in alkaline water electrolyzers A review
-- M. David et al., Journal of Energy Storage, 23, 392 (2019).
+- M. David et al., *Journal of Energy Storage*, **23**, 392 (2019).
 
 アルカリ水電解について電極材料，他手法の比較，ガス密度などからよくまとまっている．
 

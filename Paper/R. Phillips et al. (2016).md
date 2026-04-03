@@ -7,8 +7,10 @@ Zero Gap Alkaline water Electrolysis で検索した
 zero gap アルカリ水電解というのがあるらしい．
 ![[Pasted image 20260205144912.png|400]]
 
+- セルの構成はこんな感じ
+		![[file-20260401163316594.png|400]]
 - 電極間距離は交換膜と同程度 0.5 mm 抵抗損失を低減できる．
 - 電極材料
 	- Catalyst-coated substrate
 	- ニッケル発泡剤 nickel foam
-	- 
+- 
