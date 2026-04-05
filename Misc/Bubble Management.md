@@ -5,7 +5,7 @@
 - [[Angulo et al. (2020)]]
 - [[Cheng et al. (2023)]]
 - [[J. Park et al. (2024)]]
-- [[Z. Li et al. (2026)]]
+- [[J. Qiu et al. (2025)]]
 
 - 気泡脱離の促進
 - Active bubble removal (J. Park et al. (2024))

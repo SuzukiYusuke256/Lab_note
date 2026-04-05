@@ -1,0 +1,2 @@
+- Enhancing Water Electrolysis Performance by Bubble Behavior Management
+- J. Qiu et al., Small Methods 2402105, 1 (2025).
